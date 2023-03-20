@@ -1,0 +1,17 @@
+input {
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border: 2px solid rgb(70, 95, 76);
+    border-radius: 5px;
+}
+button {
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background-color: rgb(186, 240, 197);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
